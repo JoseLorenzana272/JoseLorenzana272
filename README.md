@@ -13,7 +13,7 @@
   💻 <strong>Coding since:</strong> 2021<br>
   🎓 <strong>Currently pursuing:</strong> Systems Engineering at USAC<br>
   🚀 <strong>Goals:</strong> Graduate, work hard, and dedicate everything to God<br>
-  🎹 <strong>Fun fact:</strong> Aside from programming, I'm also a pianist! Feel free to reach out if you're looking for a reliable programmer or a pianist 🎹.
+  🎹 <strong>Fun fact:</strong> I'm also a pianist! Need a coder who can serenade? I'm your guy!
 </p>
 
 ###
