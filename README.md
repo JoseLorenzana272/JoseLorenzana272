@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">🌟 About Me</h2>
 
 <p align="left">
   💻 <strong>Coding since:</strong> 2021<br>
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseLorenzana272&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2&hide=html,css" height="150" alt="Top Languages" />
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">My Music Journey</h2>
+<h2 align="left">🎵 My Music Journey</h2>
 
 <div align="center">
   <a href="https://open.spotify.com/user/wvipup5mg6he5bb345mnz38pt">
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">Connect with Me</h2>
+<h2 align="left">🤝 Let's Connect!</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/josedaniellorenzana" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/></a>
