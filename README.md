@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/MMMgVG8/Banner-git-linkein.png" alt="Banner" width="100%" />
+</div>
+
 <h1 align="center">Hello, World! 👋 I'm José Lorenzana</h1>
 
 <h3 align="center">
