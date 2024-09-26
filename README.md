@@ -1,6 +1,10 @@
-<h1 align="left">Hello, World! 👋 I'm José Lorenzana</h1>
+<h1 align="center">Hello, World! 👋 I'm José Lorenzana</h1>
 
-<p align="left">
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0BF73D&center=true&vCenter=true&width=435&lines=Studying+Systems+Engineering" alt="Typing animation showing that I'm studying Systems Engineering"/>
+</h3>
+
+<p align="center">
   <strong>🌍 From:</strong> Guatemala<br>
   <strong>👨‍💻 Systems Engineering Student:</strong> Universidad de San Carlos de Guatemala (USAC)<br>
 </p>
@@ -71,6 +75,7 @@
 <div align="center">
   <a href="https://www.instagram.com/josedaniellorenzana" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/></a>
   <a href="https://www.facebook.com/jorge.lorenzana.9619" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-lorenzana-37948531a/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/></a>
   <a href="https://discord.com/joselorenzana." target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"/></a>
   <a href="https://www.youtube.com/@joselorenzana3524" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube"/></a>
 </div>
