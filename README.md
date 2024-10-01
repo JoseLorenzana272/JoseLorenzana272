@@ -77,6 +77,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLorenzana272&theme=gruvbox" height="150" alt="GitHub Profile Summary" />
 </div>
 
+<div align="center">
+  <!-- Contador de commits -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JoseLorenzana272&theme=gruvbox&hide_border=false" height="150" alt="GitHub Streak Stats" />
+</div>
+
 ###
 
 <h2 align="left">🎵 My Music Journey</h2>
