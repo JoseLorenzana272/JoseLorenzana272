@@ -74,7 +74,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseLorenzana272&show_icons=true&theme=gruvbox&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseLorenzana272&theme=gruvbox" height="150" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
