@@ -66,7 +66,7 @@ role: Teaching Assistant — Operating Systems I
 focus: DevSecOps · Cloud-Native Security · Social Impact
 
 currently:
-  - Submitting CFPs to security conferences (The Diana Initiative, Blue Team Con)
+  - Completing my Systems Engineering degree (final stage)
   - Writing IEEE research paper on Fortress in a Box
   - Protecting civil society orgs one cluster at a time
 
