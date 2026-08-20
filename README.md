@@ -146,15 +146,6 @@ fun_fact: Also a pianist. Yes, both kinds of keys.
   <img src="http://github-readme-streak-stats.herokuapp.com?user=JoseLorenzana272&theme=gruvbox&hide_border=false" height="150" alt="Streak" />
 </div>
 
----
-
-## 🎵 Recently playing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/wvipup5mg6he5bb345mnz38pt">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wvipup5mg6he5bb345mnz38pt&count=5&unique=true" alt="Recently Played on Spotify" />
-  </a>
-</div>
 
 ---
 
