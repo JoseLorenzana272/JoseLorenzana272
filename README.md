@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-lorenzana-medina/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://joselorenzana272.github.io/fortress-in-a-box/"><img src="https://img.shields.io/badge/Fortress_in_a_Box-0BF73D?style=for-the-badge&logo=kubernetes&logoColor=black"/></a>
-  <a href="https://github.com/JoseLorenzana272/fortress-in-a-box"><img src="https://img.shields.io/github/stars/JoseLorenzana272/fortress-in-a-box?style=for-the-badge&color=0BF73D&labelColor=1a1a1a"/></a>
+  <a href="https://fortressinabox.dev"><img src="https://img.shields.io/badge/Fortress_in_a_Box-38BDF8?style=for-the-badge&logo=kubernetes&logoColor=black"/></a>
+  <a href="https://github.com/JoseLorenzana272/fortress-in-a-box"><img src="https://img.shields.io/github/stars/JoseLorenzana272/fortress-in-a-box?style=for-the-badge&color=38BDF8&labelColor=1a1a1a"/></a>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 <tr>
 <td width="55%">
 
-### [Fortress in a Box](https://joselorenzana272.github.io/fortress-in-a-box/)
+### [Fortress in a Box](https://fortressinabox.dev)
 
 Enterprise-grade Kubernetes security, deployed in a single command. Built for **NGOs, journalists, and human rights organizations** — the people who get targeted the most and have $0 security budgets.
 
@@ -48,7 +48,7 @@ git clone github.com/JoseLorenzana272/fortress-in-a-box
 | Runtime | Falco | Shell access → instant alert |
 | Recovery | ArgoCD | Git drift → auto-restored |
 
-[🌐 Landing Page](https://joselorenzana272.github.io/fortress-in-a-box/) · [📦 Repository](https://github.com/JoseLorenzana272/fortress-in-a-box)
+[🌐 Landing Page](https://fortressinabox.dev) · [📦 Repository](https://github.com/JoseLorenzana272/fortress-in-a-box)
 
 </td>
 </tr>
@@ -61,13 +61,13 @@ git clone github.com/JoseLorenzana272/fortress-in-a-box
 ```yaml
 name: José Lorenzana
 location: Guatemala City, Guatemala
-education: Systems Engineering @ USAC (9th semester)
-role: Teaching Assistant — Operating Systems I
+education: Systems Engineering @ USAC (10th semester)
+role: Support Engineer & Teaching Assistant — Operating Systems I
 focus: DevSecOps · Cloud-Native Security · Social Impact
 
 currently:
   - Completing my Systems Engineering degree (final stage)
-  - Writing IEEE research paper on Fortress in a Box
+  - Speaking on Fortress in a Box at Blue Team Con (Chicago, USA) and SecTor2026 (Toronto, Canada).
   - Protecting civil society orgs one cluster at a time
 
 fun_fact: Also a pianist. Yes, both kinds of keys.
