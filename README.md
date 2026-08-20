@@ -5,7 +5,7 @@
 <h1 align="center">José Lorenzana</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0BF73D&center=true&vCenter=true&width=600&lines=DevSecOps+%7C+Cloud-Native+Security;Building+security+for+those+who+protect+others;9th-sem+Systems+Engineering+%40+USAC;Teaching+Assistant+%7C+Operating+Systems+I" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0BF73D&center=true&vCenter=true&width=600&lines=DevSecOps+%7C+Cloud-Native+Security;Building+security+for+those+who+protect+others;10th-sem+Systems+Engineering+%40+USAC;Teaching+Assistant+%7C+Operating+Systems+I" alt="Typing SVG" />
 </h3>
 
 <p align="center">
